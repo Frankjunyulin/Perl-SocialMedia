@@ -1,0 +1,82 @@
+/*
+ * written by andrewt@cse.unsw.edu.au September 2016, Junyu Lin
+ * as a starting point for COMP2041/9041 assignment 2
+ * http://cgi.cse.unsw.edu.au/~cs2041/assignments/matelook/
+ *
+ * Change (or replace) the CSS below to create you own look-and-feel
+ *
+ * You will probably want to add  CSS to this file too
+ */
+
+.matelook_heading {
+    background: url(http://i.imgur.com/TnPgXl4.jpg);  
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 0.4em;
+    border: thin solid grey;
+    text-align: left;
+    font-size: xx-large;
+    font-weight: bold;
+    color:white;
+    letter-spacing: 3px;
+    text-decoration: underline;
+}
+
+.matelook_user_details {
+    position: relative;
+    left: 0px;
+    background-color: #ABCDEF;
+    color: #204142;
+    font-size: large;
+    white-space: pre;
+    border:thin solid #204142;
+    border-radius: 1em;
+    padding-top: 0em;
+    padding-bottom: 0.2m;
+}
+
+.matelook_button {
+    background-color: #FEDBCA;//FEDBCA
+    border:thin solid #904142;
+    color: #904142;
+    border-radius: 0.42em;
+}
+
+
+#search{
+    background: #ABCDEF;
+    font-size: x-large;
+    border:thin solid #904142;
+}
+
+textarea{
+    background: url(http://i.stack.imgur.com/ynxjD.png) repeat-y;
+    font: normal 14px verdana;
+    line-height: 25px;
+    padding: 2px 10px;
+    border: solid 1px #ddd;
+    border-radius: 0.42em;
+}
+
+#Post{
+  word-spacing: 6px;
+
+}
+
+#Whole{
+    color:white;
+    background: url(http://i.imgur.com/TnPgXl4.jpg);
+ 
+}
+
+    background-color: #ABCDEF;
+
+
+.NewAccount{
+    font: normal 20px verdana;
+    border: solid 1px #ddd;
+    padding-top: 100em;
+    padding-bottom: 100em;
+    text-align:center;
+    background: url(http://i.imgur.com/TnPgXl4.jpg);
+}
