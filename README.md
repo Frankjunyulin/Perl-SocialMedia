@@ -1,12 +1,14 @@
 # Perl-SocialMedia
 It is a social media(website), which is written by Perl cgi, html and css.
 
+
+## Construction
 matelook.cgi is the perl-cgi script
 matelook.css is the css file
 dataset-medium is the database of the website
 
 
-Here are parts that I finished.
+## Features:
 
 1.Display User Information & Posts
 The starting-point script you've been given (see below) displays user information in raw form and does not display their image or posts.
