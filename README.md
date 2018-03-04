@@ -1,4 +1,4 @@
-# Simple-Social-Media
+# Perl-SocialMedia
 It is a social media(website), which is written by Perl cgi, html and css.
 
 matelook.cgi is the perl-cgi script
